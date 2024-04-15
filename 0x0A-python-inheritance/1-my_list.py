@@ -9,4 +9,4 @@ class MyList(list):
         """print_sorted doc string"""
         new_list = self.copy()
         new_list.sort()
-        print(new_list)i
+        print(new_list)
